@@ -31,5 +31,9 @@ namespace UCopy_UI
         {
             MessageBox.Show("这是一个测试消息");
         }
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
